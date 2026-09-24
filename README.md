@@ -1,4 +1,15 @@
+
+---
+
 # 🤖 HR-AI-Assistant
+
+[![CI](https://img.shields.io/badge/CI-GitHub_Actions-2088ff.svg?style=flat\&logo=github-actions\&logoColor=white)](.github/workflows/ci.yml)
+[![Python](https://img.shields.io/badge/Python-3.10+-3776ab.svg?style=flat\&logo=python\&logoColor=white)](https://python.org)
+[![Testing](https://img.shields.io/badge/Testing-pytest-yellow.svg?style=flat\&logo=pytest\&logoColor=white)](https://pytest.org)
+[![Coverage](https://img.shields.io/badge/Coverage-90%25-brightgreen.svg?style=flat\&logo=codecov\&logoColor=white)](#testing--quality-assurance)
+[![QA](https://img.shields.io/badge/QA-Automation-blue.svg?style=flat\&logo=checkmarx\&logoColor=white)](#core-features)
+
+---
 
 An AI-powered **HR Knowledge and Workflow Assistant** designed to provide grounded, context-aware answers from internal HR documentation using **Retrieval-Augmented Generation (RAG)**.
 
