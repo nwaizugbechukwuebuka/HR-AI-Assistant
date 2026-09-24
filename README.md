@@ -1,4 +1,4 @@
-# HR-AI-Assistant
+# 🤖 HR-AI-Assistant
 
 An AI-powered **HR Knowledge and Workflow Assistant** designed to provide grounded, context-aware answers from internal HR documentation using **Retrieval-Augmented Generation (RAG)**.
 
