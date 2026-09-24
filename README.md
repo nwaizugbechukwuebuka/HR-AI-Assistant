@@ -711,7 +711,7 @@ Potential future capabilities include:
 
 # About the Developer
 
-### **Chukwuebuka Tobiloba Nwaizugbe**
+### **Tobiloba Nwaizugbe**
 
 Aspiring **Security Engineering & QA Automation Professional**
 
